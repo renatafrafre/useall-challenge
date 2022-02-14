@@ -1,0 +1,4 @@
+Questão 2
+
+Em JavaScript o operador '==' compara dois valores independente do tipo dos dados, 
+já o operador '===' compara dois valores levando o tipo em consideração.

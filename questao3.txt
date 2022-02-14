@@ -1,0 +1,5 @@
+Questão 3
+
+b) loop infinito
+
+Programa nunca atingirá a condição que interrompe a repetição.
